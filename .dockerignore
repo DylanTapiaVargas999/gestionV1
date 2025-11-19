@@ -1,0 +1,14 @@
+vendor
+node_modules
+.env
+/storage/*.key
+/storage/*.pem
+/storage/debugbar
+/public/storage
+/.idea
+/.vscode
+/.git
+npm-debug.log
+.DS_Store
+/.github
+/tests
